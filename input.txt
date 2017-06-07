@@ -1,0 +1,27 @@
+Assignment 3 -Proje hakkında bilgi
+
+Merhaba arkadaşlar,
+
+ 
+
+Bu hafta etkinliklerden dolayı lab olmayacak, ama lab saatinde ofiste olucam ödev ve proje ile ilgili sorularınız varsa gelebiliriniz.
+
+ 
+
+Ödev teslimi Cuma gece 12:00 ye kadar, uzatma da yapılmayacak hatırlatmak istedim.
+
+ 
+
+Proje için de son teslim tarihi 19 Mayıs gece 12:00. Submit sisteminden ödevin kodlarını yüklemeniz gerekiyor.
+
+Kodla beraber README dosyasını da oluşturmanızı istiyoruz. Örneği ekte bulabilirsiniz.
+
+Data setleri sonraki hafta pazartesi günü flash bellek ile teslim edebilirsiniz. sisteme yüklemenize gerek yok
+
+ 
+
+Pazartesi sınav takvimi belirlendikten sonra ayarlayacağımız bir saatte proje sunumu yapılacak katılan gruplara bonus puan eklenecek. Sunum demo şeklinde yapılacak olup projenizin çalışmasını göstermenizi istiyoruz. Sunum yapmak isteyen gruplar piazzadan private mesaj olarak atabilirler.
+
+ 
+
+İyi günler

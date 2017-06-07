@@ -1,0 +1,4 @@
+Detected language of input is English.
+The probability that the language of this input is in English is % 0
+The probability that the language of this input is in Finnish is % 0
+The probability that the language of this input is in Turkish is % 0
